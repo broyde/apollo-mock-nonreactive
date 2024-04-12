@@ -1,0 +1,16 @@
+{
+  "name": "apollo-mock-nonreactive",
+  "version": "1.0.0",
+  "description": "Example to show apollo client's MockLink incorrect work with queries with @nonreactive directive",
+  "author": "broyde",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^3.9.11",
+    "graphql": "^16.8.1",
+    "jest": "^29.7.0",
+    "react": "^18.2.0"
+  }
+}
